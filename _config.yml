@@ -25,7 +25,7 @@ twitter_username: johndstein
 github_username: johndstein
 
 # Build settings
-markdown: kramdown
+#markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
