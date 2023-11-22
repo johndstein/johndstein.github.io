@@ -15,7 +15,7 @@ function AboutPage() {
 
 Component names start with a capital letter. HTML tags are lowercase.
 
-CSS styles are specified with `className` (rather than HTML `class`). For example: `<img className="avatar" />`.
+CSS styles are specified with `className` (rather than HTML `class`).
 
 Use curly braces to reference the JavaScript in your JSX markup.
 
