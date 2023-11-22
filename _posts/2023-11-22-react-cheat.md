@@ -36,6 +36,6 @@ return (
 );
 ```
 
-https://react.dev/learn
+[https://react.dev/learn](https://react.dev/learn)
 
-https://transform.tools/html-to-jsx
+[https://transform.tools/html-to-jsx](https://transform.tools/html-to-jsx)
