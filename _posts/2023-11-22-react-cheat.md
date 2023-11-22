@@ -1,6 +1,4 @@
-# React Cheat
-
-## Components
+# Components
 
 Components are JavaScript functions that return markup -- generally JSX markup.
 
