@@ -1,6 +1,17 @@
 # Components
 
-Components are JavaScript functions that return markup -- generally JSX markup.
+Components are JavaScript functions that return markup. [JSX](https://react.dev/learn/writing-markup-with-jsx) markup is common.
+
+```js
+function AboutPage() {
+  return (
+    <>
+      <h1 className="myFavClass">About</h1>
+      <p>Hello there.<br />How do you do?</p>
+    </>
+  );
+}
+```
 
 Component names start with a capital letter. HTML tags are lowercase.
 
