@@ -2,7 +2,7 @@
 
 Components are JavaScript functions that return markup. [JSX](https://react.dev/learn/writing-markup-with-jsx) markup is common.
 
-```jsx
+```
 function AboutPage() {
   return (
     <>
@@ -19,7 +19,7 @@ CSS styles are specified with `className` (rather than HTML `class`). For exampl
 
 Use curly braces to reference the JavaScript in your JSX markup.
 
-```jsx
+```
 return (
   <h1>
     {user.name}
@@ -27,7 +27,7 @@ return (
 );
 ```
 
-```jsx
+```
 return (
   <img
     className="avatar"
