@@ -39,3 +39,8 @@ return (
 [https://react.dev/learn](https://react.dev/learn)
 
 [https://transform.tools/html-to-jsx](https://transform.tools/html-to-jsx)
+
+# Articles
+
+Good conceptual view [https://leewarrick.com/blog/a-guide-to-usestate-and-usereducer/](https://leewarrick.com/blog/a-guide-to-usestate-and-usereducer/)
+
