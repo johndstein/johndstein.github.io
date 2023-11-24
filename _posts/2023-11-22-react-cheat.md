@@ -42,5 +42,7 @@ return (
 
 # Articles
 
+Solutions for prop drilling [https://blog.logrocket.com/solving-prop-drilling-react-apps/](https://blog.logrocket.com/solving-prop-drilling-react-apps/)
+
 Good conceptual view [https://leewarrick.com/blog/a-guide-to-usestate-and-usereducer/](https://leewarrick.com/blog/a-guide-to-usestate-and-usereducer/)
 
